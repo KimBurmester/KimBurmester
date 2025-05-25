@@ -51,17 +51,12 @@
   <img src="https://img.shields.io/badge/JetBrains%20Rider-000000?style=for-the-badge&logo=JetBrains&logoColor=white"/>
 </p>
 
-# 📊 GitHub Stats:
-
 <h2>📊 GitHub Stats</h2>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KimBurmester&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=KimBurmester&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimBurmester&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 </div>
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KimBurmester&icon=4&color=8)](https://visitcount.itsvg.in)
