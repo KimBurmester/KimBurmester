@@ -48,7 +48,7 @@
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JetBrains%20Rider-000000?style=for-the-badge&logo=JetBrains&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/JetBrains%20Rider-000000?style=for-the-badge&logo=JetBrains&logoColor=white"/>-->
 </p>
 
 <h2>📊 GitHub Stats</h2>
